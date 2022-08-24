@@ -68,7 +68,7 @@
 → Javascript에서 정규표현식으로 치환하여 기초적인 방어 기능 구현  
 → 라이브러리 (lucy-xss-servlet-filter) 사용을 통한 XSS 취약점 보완 방법 탐색
   
-✅ [코드 확인](!)
+✅ [코드 확인](https://github.com/gyuhyeongH/firstfarm_front2/blob/837f7e5cefe37222e1d0ba248ad556e61de9d9c5/js/articleupload.js#L1-L9)
 </div>
 </details>
 
