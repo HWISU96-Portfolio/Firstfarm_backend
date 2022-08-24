@@ -38,15 +38,14 @@
 <summary>핵심 기능 설명 펼치기</summary>
 <div markdown="1">       
 
-- 공고 신청 ✅ [코드 확인](https://github.com/HWISU96-Portfolio/Firstfarm_backend/blob/6f9fcadee634c3e98aa285c68344ef972b97e55f/article/views.py#L199-L212)  
+- 공고 신청 ✅[코드 확인](https://github.com/HWISU96-Portfolio/Firstfarm_backend/blob/6f9fcadee634c3e98aa285c68344ef972b97e55f/article/views.py#L199-L212)  
   - 해당 article_id 와 현재 user 신청기록 DB에 저장  
   
   
-- 지원자 선발 ✅ [코드 확인](https://github.com/HWISU96-Portfolio/Firstfarm_backend/blob/6f9fcadee634c3e98aa285c68344ef972b97e55f/article/views.py#L256-L274)  
+- 지원자 선발 ✅[코드 확인](https://github.com/HWISU96-Portfolio/Firstfarm_backend/blob/6f9fcadee634c3e98aa285c68344ef972b97e55f/article/views.py#L256-L274)  
   - 자신이 올린 공고중 특정 공고에 지원한 신청자 조회 및 선발
-  - 자신이 올린 공고중 특정 공고에 지원한 신청자 조회 후 선발
   
-- 공고 마감 ✅ [코드 확인](https://github.com/HWISU96-Portfolio/Firstfarm_backend/blob/6f9fcadee634c3e98aa285c68344ef972b97e55f/article/views.py#L188-L196)  
+- 공고 마감 ✅[코드 확인](https://github.com/HWISU96-Portfolio/Firstfarm_backend/blob/6f9fcadee634c3e98aa285c68344ef972b97e55f/article/views.py#L188-L196)  
   - 선발 완료한 공고 마감
   
 </div>
