@@ -1,6 +1,7 @@
 # 첫농
 - 농사 체험/근로 중개 서비스 첫농 입니다.
-- https://hwisu.shop
+- [기획서](https://autumn-fog-802.notion.site/58ba2147a1df41839cd9b1c973dda337)
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/104343834/186075393-9166da84-badb-4b08-ae5c-5e34b7a059ad.png" width="400">
@@ -31,14 +32,13 @@
 <br>
 
 # 4. 핵심 기능
-- 첫농은 
+첫농 핵심기능
 
 <details>
 <summary>핵심 기능 설명 펼치기</summary>
 <div markdown="1">       
 
-세부 설명 추가하기
-
+- 공고 신청 [코드확인](https://github.com/HWISU96-Portfolio/Firstfarm_backend/blob/6f9fcadee634c3e98aa285c68344ef972b97e55f/article/views.py#L199-L212)
 </div>
 </details>
 
