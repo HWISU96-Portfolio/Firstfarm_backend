@@ -15,9 +15,9 @@
 # 2. 사용 기술
 ### `back-end`  
   - Python
-  - Django 4.0
+  - Django
   - Docker
-  - AWS EC2
+  - AWS EC2/S3
   
 ### `front-end`
   - JavaScript
