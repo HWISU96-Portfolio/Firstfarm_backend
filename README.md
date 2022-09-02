@@ -75,16 +75,29 @@
 <br>
 
 <details>
-<summary>상세 게시물 탐색 문제</summary>
+<summary>상세 게시물 탐색 데이터 문제</summary>
 <div markdown="1">       
 
-여러 게시물들 중 특정 게시물을 클릭했을때, 해당하는 경로를 제대로 지정하지 못하는 문제 발생  
-→ 클릭한 게시물의 article_id 값을 사용하기 위해 로컬 스토리지에 데이터를 저장하여 전달
+ → article_id 데이터를 불필요한 데이터 저장 및 api 호출로 서버에 부담을 주는 쿠키 대신 로컬 스토리지에 저장하여 전달
 
   
 ✅ [코드 확인](https://github.com/gyuhyeongH/firstfarm_front2/blob/837f7e5cefe37222e1d0ba248ad556e61de9d9c5/js/articledetail.js#L1-L4)
 </div>
 </details>
+
+<br>
+
+<details>
+<summary>상세 페이지 기능 접근 권한 설정</summary>
+<div markdown="1">       
+
+ → permission class 커스텀을 통해 조건에 해당하는 사용자만 기능에 접근 가능하도록 설정
+
+  
+✅ [코드 확인]()
+</div>
+</details>
+
 
 <br>
 
