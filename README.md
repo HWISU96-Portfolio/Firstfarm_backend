@@ -53,12 +53,24 @@
 
 <br>
 
-# 5. 핵심 트러블 슈팅
-- 
-
+# 5. 담당한 역할
+<details>
+<summary>펼치기</summary>
+<div markdown="1">       
+  
+- 사용자 권한에 따라 기능을 제한시킨 상세 게시물 페이지 개발 ✅ [코드 확인]()    
+  <br>
+- 인증된 사용자만 리뷰를 남길 수 있도록 서비스 신청 기능 개발 ✅ [코드 확인](https://github.com/HWISU96-Portfolio/Firstfarm_backend/blob/6976d0d672d1c5d5d2e48dbabbdbb30b8f5f267c/article/views.py#L199-L212)  
+  - AcceptApplyView 와 연계되어 사용자의 신청/ 농장주인의 수락이 이루어 짐  
+  <br>
+- 카카오 지도 API를 이용한 길찾기 기능 적용 ✅ [코드 확인]()  
+  - 카카오 지도 API는 타 지도 API보다 편리하게 클릭 한번으로 이미 입력된 주소 data를 적용시킬 수 있다는 장점이 있어 선택  
+  
+</div>
+</details>
 <br>
 
-# 6. 그 외 트러블 슈팅
+# 6. 트러블 슈팅
 
 <details>
 <summary>XSS</summary>
